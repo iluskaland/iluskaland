@@ -4,7 +4,9 @@ Hi 👋 My name is Ildikó
 Data analyst 
 ------------  
 
-I'm a dedicated professional with a strong administrative background and a growing passion for tech. With 6 years as a Head Administrator, I've developed robust leadership and analytical skills. While my primary experience lies in administration, I've also pursued front-end development, earning a certification in HTML, CSS, and JavaScript. However, my true aspiration lies in data analysis and business intelligence. In my current role, which expanded this year due to a promotion, I've further honed my Excel skills, mastering the data model and Power Pivot, which I utilize daily for analysis and reporting. This growth has fueled my desire to transition into a career as a data analyst or business analyst. Currently, I'm actively learning Python and exploring data analysis and business intelligence techniques. I'm dedicated to my goal of becoming a proficient data professional, and I'm eager to connect with like-minded individuals in the tech community.  
+I'm a dedicated professional with a strong administrative background and a growing passion for tech. With 6 years as a Head Administrator, I've developed robust leadership and analytical skills. While my primary experience lies in administration, I've also pursued front-end development, earning a certification in HTML, CSS, and JavaScript. However, my true aspiration lies in data analysis and business intelligence. 
+
+In my current role, which expanded this year due to a promotion, I've further honed my Excel skills, mastering the data model and Power Pivot, which I utilize daily for analysis and reporting. This growth has fueled my desire to transition into a career as a data analyst or business analyst. Currently, I'm actively learning Python and exploring data analysis and business intelligence techniques. I'm dedicated to my goal of becoming a proficient data professional, and I'm eager to connect with like-minded individuals in the tech community.  
 * 🌍  I'm based in Budapest, Hungary
 * 🖥️  See my portfolio at [iluskaland](http://iluskaland-portfolio.netlify.app)
 * 🧠  I'm learning Python, SQL, Power BI, VBA
